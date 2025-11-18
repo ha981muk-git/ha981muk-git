@@ -34,21 +34,3 @@ I'm a passionate developer who loves coding and building awesome projects!
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ha981muk-git&theme=radical&row=1)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ha981muk)
-
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle) -->
-
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://your-portfolio.com) -->
-
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ha981muk@gmail.com)
-
----
-
-⭐️ From [ha981muk-git](https://github.com/ha981muk-git)
