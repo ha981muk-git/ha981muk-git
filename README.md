@@ -56,7 +56,3 @@ I'm a passionate **Software Developer** who loves turning ideas into real-world 
 </p>
 
 ---
-
-
-
-
