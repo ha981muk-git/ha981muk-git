@@ -4,7 +4,7 @@
 I'm a passionate developer who loves coding and building awesome projects!
 
 - 🔭 I'm currently working on **Classification of German Business Documents**
-- 🌱 I'm currently learning **Bert, Tranformer, AI/ML,  API**
+- 🌱 I'm currently learning **Bert, Transformer, AI/ML,  API**
 - 💬 Ask me about **Software Development**
 
 
@@ -33,4 +33,3 @@ I'm a passionate developer who loves coding and building awesome projects!
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ha981muk-git&theme=radical&row=1)
-
