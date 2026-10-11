@@ -13,7 +13,7 @@
       <p>I'm a passionate <strong>Backend Developer</strong> who loves turning ideas into real-world solutions. I enjoy exploring new technologies and building impactful projects.</p>
       <ul>
         <li>🔭 Currently working on: <strong>Classification of German Business Documents</strong></li>
-        <li>🤖 Currently learning: <strong>Transformers (BERT), production ML APIs</strong></li>
+        <li>🤖 Currently learning: <strong>Transformers (BERT), production ML APIs, Azure Cloud, DevOps</strong></li>
         <li>💬 Ask me about: <strong>Python backend development, FastAPI, PyTorch</strong></li>
       </ul>
     </td>
